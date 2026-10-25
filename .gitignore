@@ -7,3 +7,7 @@ data/
 .wbapp_*.genie
 .workbuddy/
 .DS_Store
+
+# 参赛提交材料（封面、说明稿）与封面渲染脚本，不进代码库
+提交材料/
+.shot/
